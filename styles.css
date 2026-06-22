@@ -1,0 +1,13 @@
+/* CSS by Victoria DeSimone */
+/* Color Palette
+  deep blue = #010326
+  midnight green = #024959
+  teal = #208C8C
+  seafoam green = #89D9C2
+  black = #0D0D0D
+*/
+
+/* GLOBAL (base) MOBILE FIRST */
+body {
+  background-color: #208C8C;
+}
