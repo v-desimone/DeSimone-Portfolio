@@ -95,6 +95,9 @@ main section {
   padding: 1rem;
   background-color: #208C8C;
 }
+#welcome {
+  justify-content: space-between;
+}
 #follow ul,
 #follow li,
 #follow a {
