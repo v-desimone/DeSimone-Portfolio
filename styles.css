@@ -96,6 +96,7 @@ main section {
   background-color: #208C8C;
 }
 #welcome {
+  display: flex;
   justify-content: space-between;
 }
 #follow ul,
